@@ -8,7 +8,6 @@
 
 [基于 CentOS 6 安装 CDH](linux/Centos6_CDH.md)
 
-docs/数据结构.md)
 
 
 
